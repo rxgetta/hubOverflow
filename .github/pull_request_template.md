@@ -1,6 +1,6 @@
 # Todos
 - [ ] Set Issue to correct status
-- [ ] Ad labels
+- [ ] Add labels
 
 # Description
 I did this and that...
